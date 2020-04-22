@@ -13,8 +13,9 @@ function crazy() {
   // fix the code in here:
   console.log("hey!!!")
   }
+  thisIsCrazy();
 }
-thisIsCrazy();
+
 
 function sayMyName() {
   // fix the code in here:
